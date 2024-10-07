@@ -1,0 +1,48 @@
+body {
+background-color:dodgerblue;
+background-image:url('../PICTURES & ICONS/CV BACKGROUND PICTURE.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+h1 {
+font-size:100px;
+color:white;
+text-align:center;
+}
+
+h2 {
+font-size:75px;
+color:white;
+text-align:center;
+}
+
+h3 {
+font-size:50px;
+color:white;
+text-align:center;
+}
+
+h4 {
+font-size:25px;
+color:white;
+text-align:center;
+}
+
+ul {
+display:inline-block;
+text-align:left;
+}
+
+li {
+font-size:25px;
+color:white;
+}
+
+img {
+width:100px;
+height:100px;
+float:right;
+margin-top:500px;
+margin-bottom:10px;
+}
